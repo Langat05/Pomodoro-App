@@ -17,3 +17,9 @@ body{
     justify-content: center;
     align-items: center;
 }
+.fa-play, .fa-redo-alt{
+    color: #f0a500;
+    border: 2px solid transparent;
+    padding:1rem;
+    border-radius: 2rem;
+}
