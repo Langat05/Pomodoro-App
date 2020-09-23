@@ -26,7 +26,7 @@ body {
 .fa-play,
 .fa-redo-alt {
     color: #222831;
-    border: 2px solid transparent;
+    border: 3px solid transparent;
     padding: 1rem;
     border-radius: 2rem;
 }
