@@ -13,4 +13,7 @@ body{
     height: 20rem;
     border: 5px solid #faf3dd;
     border-radius: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
