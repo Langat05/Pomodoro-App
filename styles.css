@@ -1,17 +1,17 @@
-body{
-  font-family: 'Pacifico', cursive;  
-  background: #ffc7c7;
-  
+body {
+    font-family: 'Pacifico', cursive;
+    background: #ffc7c7;
 }
-.heading{
+
+.heading {
     color: #d789d7;
 }
 
-.row{
+.row {
     width: 100%;
 }
 
-.timer{
+.timer {
     color: #821752;
     text-align: center;
     width: 20rem;
@@ -22,14 +22,27 @@ body{
     justify-content: center;
     align-items: center;
 }
-.fa-play, .fa-redo-alt{
+
+.fa-play,
+.fa-redo-alt {
     color: #f0a500;
     border: 2px solid transparent;
-    padding:1rem;
+    padding: 1rem;
     border-radius: 2rem;
 }
-.fa-play:hover, .fa-redo-alt:hover{
+
+.fa-play:hover,
+.fa-redo-alt:hover {
     color: #ff4b5c;
     border: 2px solid #28df99;
     transition: 0.3s ease;
+}
+
+.show_message {
+    display: block;
+    padding: 1rem 0;
+    color: #31112c;
+    background: #e89f71;
+    border-radius: 0.5rem;
+    transition: 0.5s ease;
 }
