@@ -46,3 +46,9 @@ body {
     border-radius: 0.5rem;
     transition: 0.5s ease;
 }
+#seconds{
+    font-size: 5rem;
+}
+#minutes{
+    font-size: 5rem;
+}
