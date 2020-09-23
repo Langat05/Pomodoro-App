@@ -29,6 +29,14 @@ function start() {
     function secondsTimer() {
         seconds = seconds - 1;
         document.getElementById("seconds").innerHTML = seconds;
+        
+        if (seconds <=0){
+            if (minutes <=0){
+                clearInterval(minutes_interval);
+                clearInterval(seconds_interval);
+            }
+            seconds = 60;
+        }
 
     }
 }
