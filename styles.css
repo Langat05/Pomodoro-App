@@ -23,3 +23,8 @@ body{
     padding:1rem;
     border-radius: 2rem;
 }
+.fa-play:hover, .fa-redo-alt:hover{
+    color: #ff4b5c;
+    border: 2px solid #28df99;
+    transition: 0.3s ease;
+}
