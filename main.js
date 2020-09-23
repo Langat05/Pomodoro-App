@@ -37,6 +37,7 @@ function start() {
 
                 document.getElementById("done").innerHTML = "Session completed || Take a break";
 
+                document.getElementById("done").classList.add("show_message");
             }
             seconds = 60;
         }
