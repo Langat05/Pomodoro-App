@@ -1,12 +1,16 @@
 body{
   font-family: 'Pacifico', cursive;  
-  background: #272343;
+  background: #ffc7c7;
   
 }
 .heading{
     color: #d789d7;
 }
 .timer{
-    color: #dbcbbd;
+    color: #821752;
     text-align: center;
+    width: 20rem;
+    height: 20rem;
+    border: 5px solid #faf3dd;
+    border-radius: 10rem;
 }
