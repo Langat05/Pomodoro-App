@@ -1,10 +1,10 @@
 body {
     font-family: 'Pacifico', cursive;
-    background: #ffc7c7;
+    background: #cf7500;
 }
 
 .heading {
-    color: #d789d7;
+    color: #290001;
 }
 
 .row {
@@ -12,11 +12,11 @@ body {
 }
 
 .timer {
-    color: #821752;
+    color: #31112c;
     text-align: center;
     width: 20rem;
     height: 20rem;
-    border: 5px solid #ff4b5c;
+    border: 5px solid #1a1a2e;
     border-radius: 10rem;
     display: flex;
     justify-content: center;
@@ -25,7 +25,7 @@ body {
 
 .fa-play,
 .fa-redo-alt {
-    color: #f0a500;
+    color: #222831;
     border: 2px solid transparent;
     padding: 1rem;
     border-radius: 2rem;
