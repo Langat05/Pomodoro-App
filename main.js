@@ -1,5 +1,5 @@
 var minutes = 25;
-var seconds = 0;
+var seconds = "00";
 
 function template(){
     document.getElementById("minutes").innerHTML= minutes;
