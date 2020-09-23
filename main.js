@@ -23,12 +23,12 @@ function start() {
 
     function minutesTimer() {
         minutes = minutes - 1;
-        document.getElementById(minutes).innerHTML = minutes;
+        document.getElementById("minutes").innerHTML = minutes;
     }
 
     function secondsTimer() {
         seconds = seconds - 1;
-        document.getElementById(seconds).innerHTML = seconds;
+        document.getElementById("seconds").innerHTML = seconds;
 
     }
 }
