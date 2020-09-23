@@ -6,6 +6,11 @@ body{
 .heading{
     color: #d789d7;
 }
+
+.row{
+    width: 100%;
+}
+
 .timer{
     color: #821752;
     text-align: center;
